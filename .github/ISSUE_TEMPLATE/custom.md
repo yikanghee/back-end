@@ -1,11 +1,3 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
 
 ## 📌 작업 설명
 수행해야 하는 작업의 목적과 내용을 작성해주세요.
